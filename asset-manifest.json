@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.2c6a2ca1.css",
+    "main.js": "/portfolio/static/js/main.3da271bf.js",
+    "static/js/787.a44f9ed1.chunk.js": "/portfolio/static/js/787.a44f9ed1.chunk.js",
+    "static/media/profile.jpg": "/portfolio/static/media/profile.91dd3d9f345a087383a2.jpg",
+    "static/media/mango.png": "/portfolio/static/media/mango.3f20a19f515241d39bf6.png",
+    "static/media/staycation.png": "/portfolio/static/media/staycation.0b5d5a8f2c813a63c732.png",
+    "static/media/letsfly.png": "/portfolio/static/media/letsfly.ee3aad2056b726f64f40.png",
+    "static/media/sneakers.png": "/portfolio/static/media/sneakers.bf240a3feeb9f9d692a0.png",
+    "static/media/seasonic.png": "/portfolio/static/media/seasonic.6470b6fe57498b84f9c3.png",
+    "static/media/level-up.png": "/portfolio/static/media/level-up.451adde3cfa79be286dc.png",
+    "static/media/nft.png": "/portfolio/static/media/nft.5e07b6ade5ce6431ac8f.png",
+    "static/media/todolist.png": "/portfolio/static/media/todolist.0bd80bc33429f4497f20.png",
+    "static/media/bankapp.png": "/portfolio/static/media/bankapp.65fd041ad767e4c3b822.png",
+    "static/media/sushiku.png": "/portfolio/static/media/sushiku.13858403dde12f7469e5.png",
+    "static/media/jobfinder.png": "/portfolio/static/media/jobfinder.04e5eb4c95d4bc9781ef.png",
+    "static/media/money.png": "/portfolio/static/media/money.e34c84ade79932a38c2d.png",
+    "static/media/japanese-food.png": "/portfolio/static/media/japanese-food.5f49f48c9243990922cf.png",
+    "static/media/slevees.png": "/portfolio/static/media/slevees.1b19ca2b3d031a1e93d3.png",
+    "index.html": "/portfolio/index.html",
+    "main.2c6a2ca1.css.map": "/portfolio/static/css/main.2c6a2ca1.css.map",
+    "main.3da271bf.js.map": "/portfolio/static/js/main.3da271bf.js.map",
+    "787.a44f9ed1.chunk.js.map": "/portfolio/static/js/787.a44f9ed1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c6a2ca1.css",
+    "static/js/main.3da271bf.js"
+  ]
+}
